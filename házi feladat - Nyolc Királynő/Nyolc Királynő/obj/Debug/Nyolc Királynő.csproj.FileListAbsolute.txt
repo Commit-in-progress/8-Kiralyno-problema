@@ -1,0 +1,10 @@
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\bin\Debug\Nyolc Királynő.exe.config
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\bin\Debug\Nyolc Királynő.exe
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\bin\Debug\Nyolc Királynő.pdb
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc_Királynő.Form1.resources
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc_Királynő.Properties.Resources.resources
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc Királynő.csproj.GenerateResource.Cache
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc Királynő.csproj.CoreCompileInputs.cache
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc Királynő.exe
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc Királynő.pdb
+C:\Users\murzs\Desktop\Nyolc Királynő\Nyolc Királynő\obj\Debug\Nyolc Királynő.csprojResolveAssemblyReference.cache
